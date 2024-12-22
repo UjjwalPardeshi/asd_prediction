@@ -1,4 +1,4 @@
-A1,A2,A3,A4,A5,A6,A7,A8,A9,A10_Autism_Spectrum_Quotient,Age_Years,Sex,Ethnicity,Jaundice,Family_mem_with_ASD,Who_completed_the_test,ASD_traits
+A1,A2,A3,A4,A5,A6,A7,A8,A9,A10,Age_Years,Sex,Ethnicity,Jaundice,Family_mem_with_ASD,Who_completed_the_test,ASD_traits
 1,1,1,1,0,0,1,1,0,0,26.0,F,White-European,No,No,Self,No
 1,1,0,1,0,0,0,1,0,1,24.0,M,Latino,No,Yes,Self,No
 1,1,0,1,1,0,1,1,1,1,27.0,M,Latino,Yes,Yes,Parent,Yes
